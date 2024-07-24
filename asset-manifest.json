@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/morsecode/static/css/main.053d3d34.css",
+    "main.js": "/morsecode/static/js/main.33e2228b.js",
+    "static/js/453.6654d673.chunk.js": "/morsecode/static/js/453.6654d673.chunk.js",
+    "static/media/morse.png": "/morsecode/static/media/morse.097f9afe008cf226db4a.png",
+    "index.html": "/morsecode/index.html",
+    "main.053d3d34.css.map": "/morsecode/static/css/main.053d3d34.css.map",
+    "main.33e2228b.js.map": "/morsecode/static/js/main.33e2228b.js.map",
+    "453.6654d673.chunk.js.map": "/morsecode/static/js/453.6654d673.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.053d3d34.css",
+    "static/js/main.33e2228b.js"
+  ]
+}
